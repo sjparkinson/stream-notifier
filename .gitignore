@@ -16,3 +16,8 @@ project/plugins/project/
 *.iml
 .idea/
 /bin
+
+.cache/
+.classpath/
+.project/
+
